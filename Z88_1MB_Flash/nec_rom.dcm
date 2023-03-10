@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NEC_ROM
+D REPROM 128K x  8 bits (32 pins DIP or PLCC)
+K REPROM 128KO
+F memory/27c010.pdf
+$ENDCMP
+#
+#End Doc Library

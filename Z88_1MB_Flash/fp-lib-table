@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Z88_Connector)(type KiCad)(uri ${KIPRJMOD}/Z88_Connector.pretty)(options "")(descr ""))
+)
